@@ -2,7 +2,7 @@
   👋 <span style="color:#007BFF;">Hi There, I’m <strong>Roshan </strong></span>
 </h1>
 
-<h3><b>Check out my Portfolio</b> <a target='_blank' href="https://roshan17431.github.io/Portfolio/">Roshan</a></h3>
+<!--<h3><b>Check out my Portfolio</b> <a target='_blank' href="https://roshan17431.github.io/Portfolio/">Roshan</a></h3>-->
 
 
 <div align="center">
